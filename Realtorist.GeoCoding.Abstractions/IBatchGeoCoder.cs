@@ -1,5 +1,5 @@
 ﻿using Realtorist.Models.Listings.Details;
-using Realtorist.Models.Models;
+using Realtorist.Models.Geo;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
