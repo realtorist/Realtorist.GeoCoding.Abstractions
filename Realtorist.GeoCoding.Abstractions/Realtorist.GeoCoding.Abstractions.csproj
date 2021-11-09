@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Realtorist.GeoCoding.Abstractions</PackageId>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Dmytro Bondarchuk</Authors>
     <Title>Realtorist.GeoCoding.Abstractions</Title>
     <Description>Geo coding abstractions for the RealEstate framework</Description>
@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Realtorist.Models" Version="0.0.2" />
+    <PackageReference Include="Realtorist.Models" Version="0.0.3" />
   </ItemGroup>
 
 </Project>
